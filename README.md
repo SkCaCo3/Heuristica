@@ -42,6 +42,6 @@ GitHub: [SkCaCo3](https://github.com/SkCaCo3)
 ![Main Menu](Heuristica/screenshots/Manu.png)
 ![Gameplay](Heuristica/screenshots/gameplay.png)
 ![Analytics](Heuristica/screenshots/analytics.png)
-![Analytics](Heuristica/screenshots/How to play.png)
+![Analytics](Heuristica/screenshots/How_to_play.png)
 
 
