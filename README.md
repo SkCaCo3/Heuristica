@@ -42,6 +42,6 @@ GitHub: [SkCaCo3](https://github.com/SkCaCo3)
 ## Screenshots
 
 ![Heuristica Game Screenshot](Heuristica/Manu.jpg)
-![Gameplay](Heuristica/screenshots/gameplay.jpg)
-![Analytics](Heuristica/screenshots/analytics.jpg)
-![How_to_play](Heuristica/screenshots/How_to_play.jpg)
+![Heuristica Game Screenshot](Heuristica/gameplay.jpg)
+![Heuristica Game Screenshot](Heuristica/analytics.jpg)
+![Heuristica Game Screenshot](Heuristica/How_to_play.jpg)
