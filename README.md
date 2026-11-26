@@ -39,7 +39,9 @@ Sohel Khan
 
 GitHub: [SkCaCo3](https://github.com/SkCaCo3)
 
-![Main Menu](Heuristica/screenshots/Manu.jpg)
+## Screenshots
+
+![Heuristica Game Screenshot](Heuristica/Manu.jpg)
 ![Gameplay](Heuristica/screenshots/gameplay.jpg)
 ![Analytics](Heuristica/screenshots/analytics.jpg)
 ![How_to_play](Heuristica/screenshots/How_to_play.jpg)
