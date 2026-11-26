@@ -22,12 +22,32 @@ Heuristica is an academic project developed for the Artificial Intelligence Lab 
 - Search Algorithms
 - Data Visualization
 
+## Installation & Setup
+
+### 1. Clone the Repository
+
+git clone https://github.com/SkCaCo3/Heuristica.git
+
+### 2. Navigate to the Project Folder
+
+cd Heuristica/Heuristica
+
+### 3. Install Dependencies
+
+pip install -r requirements.txt
+
+### 4. Run the Application
+
+python main.py
+
 ## Key Features
 
 - Interactive maze generation
 - Animated pathfinding visualization
-- Algorithm performance comparison
-- Analytics dashboard
+- Multiple AI search algorithms
+- Real-time algorithm comparison
+- Search performance analytics
+- Step-by-step maze-solving visualization
 
 ## Project Documentation
 
@@ -41,7 +61,21 @@ GitHub: [SkCaCo3](https://github.com/SkCaCo3)
 
 ## Screenshots
 
-![Heuristica Game Screenshot](Heuristica/Manu.jpg)
-![Heuristica Game Screenshot](Heuristica/gameplay.jpg)
-![Heuristica Game Screenshot](Heuristica/analytics.jpg)
-![Heuristica Game Screenshot](Heuristica/How_to_play.jpg)
+### Main Menu
+![Main Menu](Heuristica/Manu.jpg)
+
+### Gameplay
+![Gameplay](Heuristica/gameplay.jpg)
+
+### Analytics Dashboard
+![Analytics](Heuristica/analytics.jpg)
+
+### How to Play
+![How to Play](Heuristica/How_to_play.jpg)
+
+
+## Future Improvements
+
+- Additional pathfinding algorithms
+- Improved visualization interface
+- Enhanced performance analysis
